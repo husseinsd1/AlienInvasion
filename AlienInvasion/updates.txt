@@ -1,7 +1,0 @@
-Allow highscore to save even after closing game using json
-Change background, ship, and alien images
-Change bullet color
-Add menu screen
-Add levels
-Add pause function
-
